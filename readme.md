@@ -1,3 +1,4 @@
 #Hello!
 
-```*Thanks for the informative first lecture!*```
+``` * Thanks for the informative first lecture! * ```
+
