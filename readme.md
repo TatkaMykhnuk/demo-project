@@ -1,2 +1,3 @@
-#Hello
-```$ git init```
+#Hello!
+
+```*Thanks for the informative first lecture!*```
